@@ -1,0 +1,17 @@
+Job Title: Junior Data Analyst
+
+REQUIRED SKILLS
+Python
+SQL
+Excel
+Data Analysis
+
+OPTIONAL SKILLS
+Power BI
+Tableau
+Project Management
+
+RESPONSIBILITIES
+- Analyze datasets
+- Create dashboards
+- Support business decisions
